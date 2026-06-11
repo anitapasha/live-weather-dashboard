@@ -1,1 +1,5 @@
-# live-weather-dashboard
+# live-weather-dashboard # داشبورد وضعیت آب و هوا ☀️⛈
+
+نمایش وضعیت جوی شهرهای مختلف جهان به صورت زنده با استفاده از API.
+- اتصال به OpenWeatherMap API
+- نمایش دما، رطوبت و سرعت باد
